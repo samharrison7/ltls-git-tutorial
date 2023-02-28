@@ -1,5 +1,5 @@
 program hello_world
     implicit none
 
-    print *, "Hello world!"
+    print *, "Hello world!!"
 end program
