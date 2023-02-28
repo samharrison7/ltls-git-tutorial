@@ -12,4 +12,5 @@ program hello_world
     print *, "Hello world!"
     print *, "The current date is ", date
     print *, "The current time is ", time
+    print *, "Goodbye!"
 end program
